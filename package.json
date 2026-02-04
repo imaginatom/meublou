@@ -61,7 +61,6 @@
     "@emotion/is-prop-valid": "latest",
     "@eslint/eslintrc": "latest",
     "@joycostudio/v0-setup": "latest",
-    "@remix-run/react": "latest",
     "@tanstack/react-router": "latest",
     "@types/eslint": "latest",
     "@vercel/analytics": "1.3.1",
